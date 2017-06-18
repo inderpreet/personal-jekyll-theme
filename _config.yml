@@ -127,7 +127,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "ip_v1"
 
 syntax-highlight: True
 
@@ -162,7 +162,7 @@ email: "er.inderpreet@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "...freelance engineer and blogger to the internet, father to a sneaky son, husband to a brilliant wife and I will have my PhD in this life or the next."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "https://github.com/inderpreet.png?size=500"
 
 ##################
 # Social Buttons #
@@ -170,13 +170,13 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/dr.inderpreet"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/ip_v1"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/inderpreet"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
@@ -190,7 +190,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: inderpreet
 keybase-in-social: True
 keybase-in-footer: True
 

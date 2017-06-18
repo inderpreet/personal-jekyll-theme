@@ -114,7 +114,7 @@ enable-gesture-navigation: True
 
 post-preview-words: 96
 
-paginate: 5
+paginate: 10
 
 email-share: True
 fb-share: True
@@ -127,7 +127,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "ip_v1"
+disqus-shortname: "inderpreet-github-io-blog"
 
 syntax-highlight: True
 

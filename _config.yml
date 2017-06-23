@@ -136,12 +136,31 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/teacher.jpg"
+    date: "July 2013 to May 2017"
+    description: "I am a Teacher! Assistant Prof @GNDU, Asr"
+  - image: "/img/timeline/jetpack.png"
+    date: "July 2012 to May 2013"
+    description: "Assistant Project Manager @Rajdeep Research Labs"
+  - image: "/img/timeline/jedi.jpg"
+    date: "July 2010 to June 2012"
+    description: "Got my Master In Tech. from GNDU, Asr"
+  - image: "/img/timeline/jetpack.png"
+    date: "April -2008 to June 2010"
+    description: "Made Industrial Stuff @Rajdeep IT, Pune"
+  - image: "/img/timeline/miner.png"
+    date: "July 2006 - January - 2008"
+    description: "IIIT Pune - Research Associate for VLSI"
+  - image: "/img/timeline/wolverine.jpg"
+    date: "June 2006"
+    description: "I am an Engineer! - B.Tech."  
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "February 1993"
+    description: "First Electronics Project and Science Fair"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
+    date: "April 1994"
     description: "Started coding"
+
 
 # First image of the Timeline
 

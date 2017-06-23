@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "PRO MAKER"
   - text: "ELECTRONICS ENGINEER"
-  - text: "EMBEDDED DESIGNER"
+  - text: "EMBEDDED DESIGNER AND IoT"
   - text: "AUTHOR AND BLOGGER"
   - text: "SON, HUSBAND AND FATHER"
   - text: "SOFTWARE GUY"
